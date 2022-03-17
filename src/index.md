@@ -19,4 +19,6 @@ Its *full* of amazing demonstrations of code
 
 >Theres even images - click a link to see one!
 
-[First Image](index.html)
+[First Image](pages/page-one/index.html)
+
+[Second Image](pages/page-two/index.html)
