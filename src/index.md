@@ -4,7 +4,7 @@ layout: base.njk
 ---
 
 
-## Macaroon brownie carrot cake
+## Macaroon brownie carrot pie
 
 
 {% for page in collections.pages %}
