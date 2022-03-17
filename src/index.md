@@ -3,10 +3,20 @@ title: My First Eleventy Site
 layout: base.njk
 ---
 
+<!--heading-->
+# Welcome 
 
-## Macaroon brownie carrot cake
+> This site is fascinating
 
+**Don't Click Away!**
 
-{% for page in collections.pages %}
-- [{{ page.data.title }}]({{ page.url }})
-{% endfor %}
+Its *full* of amazing demonstrations of code
+
+* Things on this site
+    * Text
+    * Letters
+    * Cool stuff
+
+>Theres even images - click a link to see one!
+
+[First Image](index.html)
