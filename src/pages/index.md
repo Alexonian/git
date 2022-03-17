@@ -4,7 +4,9 @@ layout: base.njk
 ---
 
 
-## Macaroon brownie carrot poo
+## Macaroon brownie carrot cake
 
 
-
+{% for page in collections.pages %}
+- [{{ page.data.title }}]({{ page.url }})
+{% endfor %}
