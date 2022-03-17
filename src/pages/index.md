@@ -8,6 +8,3 @@ layout: base.njk
 
 
 
-{% for page in collections.pages %}
-- [{{ page.data.title }}]({{ page.url }})
-{% endfor %}
